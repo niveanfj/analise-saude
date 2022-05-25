@@ -14,8 +14,7 @@ medidas preventivas e palestras de cuidados médicos. Através da análise dos d
   2. Risco Moderado alto
   3. Risco Moderado baixo
   4. Baixo risco
-      
-           
+                
 ## 📰 Resultado
 <p align="center">
 <a href="https://public.tableau.com/views/AnlisedeRisco/AnalisedeRisco?:language=pt-BR&:display_count=n&:origin=viz_share_link
